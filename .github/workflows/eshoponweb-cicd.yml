@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 41bd61b0-58b2-456b-ba7d-3631024eb3e7
-  WEBAPP-NAME: az400-webapp-nanis
+  WEBAPP-NAME: az400-webapp-naniSs
 
 
 jobs:
