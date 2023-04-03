@@ -3,6 +3,7 @@
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
 Sample ASP.NET Core reference application, powered by Microsoft, demonstrating a single-process (monolithic) application architecture and deployment model. If you're new to .NET development, read the [Getting Started for Beginners](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners) guide.
+[![Build Status](https://dev.azure.com/harinathareddy2/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/HarryPotter2000.calculator?branchName=master)](https://dev.azure.com/harinathareddy2/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=7&branchName=master)
 
 A list of Frequently Asked Questions about this repository can be found [here](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Frequently-Asked-Questions).
 
